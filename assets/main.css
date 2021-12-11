@@ -6,7 +6,7 @@ body {
   width: 940px;
   margin-left: auto;
   margin-right: auto;
-  font-family: monospace;
+  font-family: "monospace", sans-serif;
   background: rgb(243, 240, 240);
 }
 
@@ -15,7 +15,8 @@ h1 {
 }
 
 .img-recipe {
-  height: 30rem;
+  width: 20rem;
+  height: auto;
 }
 
 ul > li, ol {
